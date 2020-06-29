@@ -80,7 +80,7 @@ public class Livro implements Publicacao{
     }
 
     @Override
-    public void abir() {
+    public void abrir() {
         this.aberto = true;
     }
 

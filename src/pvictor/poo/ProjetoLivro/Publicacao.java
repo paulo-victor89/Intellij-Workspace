@@ -1,7 +1,7 @@
 package pvictor.poo.ProjetoLivro;
 
 public interface Publicacao {
-    public void abir();
+    public void abrir();
     public void fechar();
     public void folhear(int p);
     public void avancarPag();

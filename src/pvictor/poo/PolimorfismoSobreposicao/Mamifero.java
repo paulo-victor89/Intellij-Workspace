@@ -1,4 +1,4 @@
-package pvictor.poo.Polimorfismo;
+package pvictor.poo.PolimorfismoSobreposicao;
 
 public class Mamifero extends Animal {
     private String corPelo;

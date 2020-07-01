@@ -1,4 +1,4 @@
-package pvictor.poo.Polimorfismo;
+package pvictor.poo.PolimorfismoSobreposicao;
 
 public class PolimorfismoAula12 {
     public static void main(String[] args) {
